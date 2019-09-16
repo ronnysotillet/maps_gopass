@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766889584556",
+    "firebase_url": "https://pruebas-5008f.firebaseio.com",
+    "project_id": "pruebas-5008f",
+    "storage_bucket": "pruebas-5008f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766889584556:android:690c73db7158c911f97c09",
+        "android_client_info": {
+          "package_name": "com.myfirstappainflutter.gopass_demo_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766889584556-aaeqqvi76ti3b7cjq3djth03v0gm2qc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myfirstappainflutter.gopass_demo_v2",
+            "certificate_hash": "c27895c71a249441cbe1ca9ae0832b99fe0a4f2c"
+          }
+        },
+        {
+          "client_id": "766889584556-9rpmdri7u0lg608kvu3mn6hoqca7se56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd9L6qWW0sPVSvam9-ZvgGZrNDNwwCYVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766889584556-9rpmdri7u0lg608kvu3mn6hoqca7se56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

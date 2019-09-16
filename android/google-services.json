@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978924865706",
+    "firebase_url": "https://notificationflutter-331d1.firebaseio.com",
+    "project_id": "notificationflutter-331d1",
+    "storage_bucket": "notificationflutter-331d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978924865706:android:1f29bec4a3d432020b28d3",
+        "android_client_info": {
+          "package_name": "com.myfirstappainflutter.gopass_demo_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978924865706-6em82v8uiqe225qq886c2llm83ps1bs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC34OR7V2-cBUMV4L8t_ZmUJuBtWhr959s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978924865706-6em82v8uiqe225qq886c2llm83ps1bs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
